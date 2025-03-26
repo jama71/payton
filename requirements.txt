@@ -1,7 +1,2 @@
 aiogram
 yt-dlp
-asyncio
-logging
-re
-json
-requests
