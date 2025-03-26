@@ -2,7 +2,6 @@ aiogram
 yt-dlp
 asyncio
 logging
-os
 re
 json
 requests
